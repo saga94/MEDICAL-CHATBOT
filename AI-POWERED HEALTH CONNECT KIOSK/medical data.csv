@@ -1,0 +1,287 @@
+Symptoms,Causes,Disease,Medicine,Specialist
+"Cold, Cough",Viral Infection,Common Cold,"Ibuprofen, Rest",Physician
+"Headache, Fatigue",Stress,Migraine,Sumatriptan,Neurologist
+Shortness of breath,Pollution,Asthma,Albuterol Inhaler,pulmonologist
+"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration,Gastroenterologist
+Sore Throat,Bacterial Infection,Strep Throat,Penicillin,ENT Specialist
+"Joint Pain, Fatigue",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist 
+"Chest Pain, Dizziness",High Blood Pressure,Hypertension,Amlodipine,cardiologist
+"Itching, Redness",Allergies,Allergic Reaction,Antihistamine,Dermatologists
+"Abdominal Pain, Bloating",Poor Diet,Indigestion,Antacids,Gastroenterologist
+"Fatigue, Sadness",Depression,Major Depressive,Sertraline,psychologist
+,,,,
+", Muscle Aches",Viral Infection,Influenza,Acetaminophen,Physician
+"Cough, Sneezing",Cold Weather,Common Cold,"Honey, Rest",Physician
+"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate,Gastroenterologist
+Shortness of breath,Smoking,Chronic Bronchitis,Inhalers,"pulmonologist,"
+"Headache, Blurred Vision",Migraine Triggers,Migraine,Beta-blockers,Neurologist
+"Stomach Pain, Diarrhea",Spicy Food,Gastritis,"Antacids, Rest",Gastroenterologist
+"Joint Pain, Swelling",Autoimmune Response,Rheumatoid Arthritis,NSAIDs,Rheumatologist
+Sore Throat,Viral Infection,Tonsillitis,"Fluids, Rest","Physician ,ENT Specialist"
+"Back Pain, Numbness",Herniated Disc,Sciatica,Pain Relievers,neurologist
+"Nausea, Vomiting",Pregnancy,Morning Sickness,"Ginger, Vitamin B6",obstetrician-gynecologist
+"Fatigue, Weakness",Anemia,Iron Deficiency,Iron Supplements,haematologist
+"Anxiety, Rapid Heartbeat",Stress,Panic Disorder,Cognitive Therapy,Psychologist
+Shortness of breath,Obesity,Sleep Apnea,CPAP Machine,Gastroenterologist
+"Skin Rash, Itching",Allergies,Dermatitis,Topical Steroids,Dermatologists
+"Cough, ",Viral Infection,Respiratory infection,"Antivirals, Rest",Physician
+,,,,
+"Joint Pain, Fatigue",Osteoarthritis,Arthritis,Pain Relievers,Rheumatologist
+"Dizziness, Fatigue",Dehydration,Heat Exhaustion,"Hydration, Rest",Physician
+"Headache, Sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs",Neurologist
+"Abdominal Pain, Bloating O",vereating,Indigestion,Antacids,Gastroenterologist
+"Nausea, Cramps",Menstrual Cycle,Menstrual Cramps,Pain Relievers,gynecologist
+"Chest Pain, Shortness of breath",Heart Disease,Coronary ArteryDisease,Nitroglycerin,Cardiologist
+,,,,
+"Fatigue, Difficulty breathing",Hypothyroidism,Thyroid Disorder,Levothyroxine,Endocrinologist
+,,,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Pulmonologist
+"Cough, Shortness of breath",COVID-19 Exposure,COVID-19,"Isolation, Fluids",
+"Itching, Redness",Allergies,Allergic Reaction,Antihistamine,Dermatologists
+"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers",Physiatrists
+"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration,Gastroenterologist
+"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises",Opthalmologist
+"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet",Gastroenterologist
+"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT",neurosurgeon or orthopedic surgeon.
+Sore Throat,Viral Infection,Tonsillitis,"Fluids, Rest",ENT
+"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle",neurologist or rheumatologist
+,,,,
+"Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication",Psychiatrist
+"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching",Orthopedic
+,,,,
+"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist
+"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate,Gastroenterologist
+"cold, Cough",Viral Infection,Common Cold,"Ibuprofen, Rest",Physician
+"Headache, Fatigue",Stress,Migraine,Sumatriptan,Psychologist
+Shortness of breath,Pollution,Asthma,Albuterol Inhaler,Pulmonologist
+"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration,Gastroenterologist
+Sore Throat,Bacterial Infection,Strep Throat,Penicillin,ENT Specialist
+"Joint Pain, Fatigue",Rheumatoid Arthriti,s  Arthritis,NSAIDs,Rheumatologist
+"Chest Pain, Dizziness",High Blood Pressure,Hypertension,Amlodipine,Cardiologist
+"Itching, Redness",Allergies,Allergic Reaction,Antihistamine,Dermatologists
+"Abdominal Pain, Bloating",Poor Diet,Indigestion,Antacids,Gastroenterologist
+"Fatigue, Sadness",Depression,Major Depressive Disorder,Sertraline,psychologist
+,,,,
+"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching",Pulmonologist
+,,,,
+"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs,
+"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate,Gastroenterologist
+"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,,,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Pulmonologist
+"Cough, Shortness of breathe",h  COVID-19 Exposure,COVID-19,"Isolation, Fluids",Pulmonologist
+"Itching, Redness",Allergies,Allergic Reacti,on   Antihistamine,Dermatologists
+"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers",Physiatrists
+"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration,Gastroenterologist
+"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises",Opthalmologist
+"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet",Gastroenterologist
+"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT",Orthopedic Surgeon
+ Sore Throat,Viral Infection,Tonsillitis,"Fluids, Rest",Physician
+"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle",Neurologist
+,,,,
+"Anxiety, Palpitations",Stress,Anxiety Disorder," Therapy, Medication",Psychiatrist
+"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching",Pulmonologist
+,,,,
+"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist 
+"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate,Gastroenterologist
+"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,,Syndrome,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Pulmonologist
+"Cough, Shortness of breat",h  COVID-19 Exposure,COVID-19,"Isolation, Fluids",Pulmonologist
+"Itching, Redness",Allergies,Allergic Reacti,on   Antihistamine,Dermatologists
+"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers",Physiatrists
+"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration,Gastroenterologist
+"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises",Opthalmologist
+"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet",Gastroenterologist
+"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT",Orthopedic Surgeon
+Sore Throat,Viral Infection,Tonsillitis,"Fluids, Rest",Otolaryngologist
+"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,,,,
+"Anxiety, Palpitations",Stress,Anxiety Disorder," Therapy, Medication",Psychiatrist
+"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching",Pulmonologist
+,,,,
+"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist
+"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate,Gastroenterologist
+"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,,,,
+"Abdominal Pain, Bloating",Overeating,Indigestion,Antacids,Gastroenterologist
+"Fatigue, Weakness",Anemia,Iron Deficiency,Iron Supplements,"Hematologist,Gastroenterologist"
+" Anxiety, Rapid Heartbeat",Stress,Panic Disorder,Cognitive Therapy,"Psychologist,Psychiatrist"
+Shortness of breath,Obesity,Sleep Apnea,CPAP Machine,Pulmonologist
+" Skin Rash, Itching",Allergies,Dermatitis,Topical Steroids,Dermatologists
+Cough,Viral Infection,RespiratoryInfection,"Antivirals, Rest",Physician
+,,,,
+"Joint Pain, Fatigue",Osteoarthritis,Arthritis,Pain Relievers,Rheumatologist
+"Dizziness, Fatigue",Dehydration,Heat Exhaustion," Hydration, Rest",
+"Headache, Sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs",Neurologist
+"Abdominal Pain, Bloating",Overeating,Indigestion,Antacids,Gastroenterologist
+"Nausea, Cramps",Menstrual Cycle,Menstrual Cramps,Pain Relievers,gynecologist
+"Chest Pain, Shortness of breath",Heart Disease,Coronary Artery,"  Nitroglycerin,Aspirin",Pulmonologist
+,,,,
+"Fatigue, Difficulty breathing",Hypothyroidism,Thyroid Disorder,Levothyroxine,Endocrinologists
+,,,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Pulmonologist
+"Cough, Shortness of brea",th  COVID-19 Exposure,COVID-19,"Isolation, Fluids",Pulmonologist
+"e Itching, Redness",Allergies,Allergic Reaction,Antihistamine,Dermatologists
+"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers",Physiatrists
+" Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration,Gastroenterologist
+"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises",Ophthalmologist
+"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"  Fluids, Bland Diet",Gastroenterologist
+" Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT",Orthopedic Surgeon
+Sore Throat,Viral Infection,Tonsillitis,"Fluids, Rest",Physician
+" Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"  Rest, Lifestyle","Neurologist,Rheumatologist"
+,,,,
+" Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication",
+"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching",Pulmonologist
+,,,,
+"e Joint Pain, Swelling",Rheumatoid Arthrit,is  Arthritis,NSAIDs,Rheumatologist
+"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate,Gastroenterologist
+"e Fatigue, Weakness",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,Syndrome,Syndrome,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Pulmonologist
+"Cough, Shortness of breath",th  COVID-19 Exposure,COVID-19,"Isolation, Fluids",Pulmonologist
+"Itching, Redness",Allergies,Allergic Reaction,Antihistamine,Dermatologists
+"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers",Physiatrists
+"e Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration,Gastroenterologist
+"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises",Ophthalmologist
+"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet",Gastroenterologist
+"e Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT",Orthopedic Surgeon
+Sore Throat,Viral Infection,Tonsillitis,"Fluids, Rest","Physician ,ENT Specialist"
+"e Fatigue, Weakness",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,Syndrome,Syndrome,,
+"e Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication",Psychiatrist
+"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching",Pulmonologist
+,,,,
+"e Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist
+"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate,Gastroenterologist
+"e Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome," Rest, Lifestyle","Neurologist,Rheumatologist"
+,,,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Pulmonologist
+"Sore Throat, Cough",Bacterial Infection,Strep Throat,Penicillin,ENT Specialists
+"Fatigue, Weakness",Anemia,Iron Deficiency,Iron Supplements,Haematologist
+"Anxiety, Rapid Heartbeat",Stress,Panic Disorder,Cognitive Therapy,Ps
+Shortness of breath,Obesity,Sleep Apnea,CPAP Machine,Pulmonologist
+"Skin Rash, Itching",Allergies,Dermatitis,Topical Steroids,Dermatologist
+"Cough, ",Viral Infection,Respiratory Infection,"Antivirals, Rest",Pulmonologist
+,,,,
+"Joint Pain, Fatigue",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist
+"Dizziness, Fatigue",Dehydration,Heat Exhaustion,"Hydration, Rest",
+"Headache, Sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs",Psychologist
+"Abdominal Pain, Bloating",Overeating,Indigestion,Antacids,Gastroenterologist
+"Nausea, Cramps",Menstrual Cycle,Menstrual Cramps,Pain Relievers,Gynaecologist
+"Chest Pain, Shortness of breath",Heart Disease,Coronary Artery Disease,"Nitroglycerin,Aspirin",Pulmonologist
+,,,,
+"Fatigue, Difficulty breathing",Hypothyroidism,Thyroid Disorder,Levothyroxine,Endocrinologist
+,,,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Pulmonologist
+"Cough, Shortness of breath",COVID-19 Exposure,COVID-19,"Isolation, Fluids",Pulmonologist
+"Itching, Redness",Allergies,Allergic Reaction,Antihistamine,Dermatologists
+"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers",Physiatrists
+"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration,Gastroenterologist
+"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises",Eye specialist
+"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet",Gastroenterologist
+"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT",Orthopedic Surgeon
+Sore Throat,Viral Infection,Tonsillitis,"Fluids, Rest","Physician , ENT Specialist"
+"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,,,,
+"Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication","Psychologist,Psychiatrist"
+"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching",Pulmonologist
+,,,,
+"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist
+"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate,Gastroenterologist
+"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,,,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Pulmonologist
+"Cough, Shortness of breath",COVID-19 Exposure,COVID-19,"Isolation, Fluids",Pulmonologist
+"Itching, Redness",Allergies,Allergic Reaction,Antihistamine,Allergist
+"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers",Physiatrists
+"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration,Gastroenterologist
+"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises",Eye specialist
+"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet",Gastroenterologist
+"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT",neurosurgeon or orthopedic surgeon.
+Sore Throat,Viral Infection,Tonsillitis,"Fluids, Rest","Physician , ENT Specialist"
+"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,,,,
+"Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication",Psychologist
+"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching",Pulmonologist
+,,,,
+"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist
+"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate,Gastroenterologist
+"Fatigue, Weakness",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,Syndrome,Syndrome,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Physician
+,,,,
+"Sore Throat, Cough",Bacterial Infection,Strep Throat,Penicillin,ENT Specialist
+"Fatigue, Weakness",Anemia,Iron Deficiency,Iron Supplements,Haematologist
+"Anxiety, Rapid Heartbeat",Stress,Panic Disorder,Cognitive Therapy,cardiologist
+Shortness of breath,Obesity,Sleep Apnea,CPAP Machine,Pulmonologist
+"Skin Rash, Itching",Allergies,Dermatitis,Topical Steroids,Dermatologists
+"Joint Pain, Fatigue",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist
+"Dizziness, Fatigue",Dehydration,Heat Exhaustion,"Hydration, Rest",
+"Headache, Sensitivity",Tension,Tension Headache,"Relaxation, NSAIDs",Neurologist
+"Abdominal Pain, Bloating",Overeating,Indigestion,Antacids,Gastroenterologist
+"Nausea, Cramps",Menstrual Cycle,Menstrual Cramps,Pain Relievers,gynecologist
+"Chest Pain, Shortness",Heart Disease,Coronary Artery,Nitroglycerin,Pulmonologist
+of breath,,Disease,Aspirin,
+"Fatigue, Difficulty eathing",Hypothyroidism,Thyroid Disorder,Levothyroxine,Endocrinologist
+,,,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Pulmonologist
+"Cough, Shortness of breat",h COVID-19 Exposure,COVID-19,"Isolation, Fluids",Pulmonologist
+"Itching, Redness",Allergies,Allergic Reaction,Antihistamine,Dermatologists
+"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers",Physiatrists
+"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration,Gastroenterologist
+"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises",Opththalmologist
+"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet",Gastroenterologist
+"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT",Orthopedic surgeon
+Sore Throat,Viral Infection,Tonsillitis,"Fluids, Rest","Physician ,ENT Specialist"
+"Fatigue, Weakness",Chronic Fatigue,Chronic Fatigue,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,Syndrome,Syndrome,,
+"Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication",Psychiatrist
+"Chest Pain, Shortness",Physical Exertion,Muscle Overuse,"Rest, Stretching",Pulmonologist
+of breath,,,,
+"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist
+"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate,Gastroenterologist
+"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,,,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Pulmonologist
+"Cough, Shortness of breath",COVID-19 Exposure,COVID-19,"Isolation, Fluids",Pulmonologist
+"Itching, Redness",Allergies,Allergic Reaction,Antihistamine,Dermatologists
+"Muscle Pain, Fatigue",Overexertion,Muscle Strain,"Rest, Pain Relievers",Orthopedic 
+"Nausea, Vomiting",Food Poisoning,Gastroenteritis,Oral Rehydration,Gastroenterologist
+"Headache, Blurred Vision",Eye Strain,Vision Fatigue,"Rest, Eye Exercises",Ophthalmologist
+"Stomach Pain, Diarrhea",Food Poisoning,Gastroenteritis,"Fluids, Bland Diet",Gastroenterologist
+"Back Pain, Numbness",Sciatica,Herniated Disc,"Pain Relievers, PT",Orthopedic Surgeon
+Sore Throat,Viral Infection,Tonsillitis,"Fluids, Rest",ENT Specialists
+"Fatigue, Weakness",Chronic Fatigue Syndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,,,,
+"Anxiety, Palpitations",Stress,Anxiety Disorder,"Therapy, Medication",Pshychiatrist
+"Chest Pain, Shortness of breath",Physical Exertion,Muscle Overuse,"Rest, Stretching",Pulmonologist
+,,,,
+"Joint Pain, Swelling",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist
+"Nausea, Dizziness",Motion Sickness,Motion Sickness,Dimenhydrinate,Gastroenterologist
+"Fatigue, Weakness",Chronic FatigueSyndrome,Chronic Fatigue Syndrome,"Rest, Lifestyle","Neurologist,Rheumatologist"
+,,,,
+", Chills",Infection,Pneumonia,"Antibiotics, Rest",Pulmonologist
+"Sore Throat, Cough",Bacterial Infection,Strep Throat,Penicillin,ENT Specialist
+"Fatigue, Weakness",Anemia,Iron Deficiency,Iron Supplements,Haematologist
+"Anxiety, Rapid Heartbeat",Stress,Panic Disorder,Cognitive Therapy,Psychologist
+Shortness of breath,Obesity,Sleep Apnea,CPAP Machine,Pulmonologist
+"Skin Rash, Itching",Allergies,Dermatitis,Topical Steroids,Dermatologists
+"Cough, ",Viral Infection,Respiratory     AntiInfection,"virals, Rest",Pulmonologist
+,,,,
+"Joint Pain, Fatigue",Rheumatoid Arthritis,Arthritis,NSAIDs,Rheumatologist
+"Dizziness, Fatigue",Dehydration,Heat Exhaustion Hydr,"ation, Rest",
+"Headache, Sensitivity",Tension,Tension Headache Rel,"axation, NSAIDs",Physia
+"Abdominal Pain, Bloating",Overeating,Indigestion     Anta,cids,Gastroenterologist
+"Nausea, Cramps",Menstrual Cycle,Menstrual Cramps Pai,n Relievers,gynecologist
+"Chest Pain, Shortnessof breath",Heart Disease,Coronary Artery Disease,"Nitroglycerin,Aspirin",Pulmonologist
+,,,,
+"Fatigue, Difficulty breathing",Hypothyroidism,Disease,Levothyroxine,Endocrinologist
+,,,,
+", Chills",Infection,Pheumonia," Antibiotics, Rest",Pulmonologist
+"Cough, Shortness of breath",COVID-19 Exposure,COVID-19,"  Isolation, Fluids",Pulmonologist
+"Itching, Redness",Allergies,Allergic Reaction An,tihistamine,Dermatologists
+"Muscle Pain, Fatigue",Overexertion,Muscle Strain," Rest, Pain Relievers",Physiatrists
+"Nausea, Vomiting",Food Poisoning,Muscle Strain,Rehydration,Physiatrists
+"Headache, Blurred Vision",Eye Strain,Muscle Strain,Eye Exercises,Physiatrists
+fever,Viral Infection,Fever,"Ibuprofen, Rest",Physician

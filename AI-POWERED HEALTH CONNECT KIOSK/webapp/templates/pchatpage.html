@@ -1,0 +1,25 @@
+
+{% extends 'u_base.html' %}
+{% block content %} 
+
+	<h3>
+Chat with doctors<br><br>
+</h2>
+</h3>
+<center>
+				<table id="tab" width="70%">
+<tr>
+	
+
+				{% for d in data %}
+<tr><td>{{forloop.counter}}<td>{{d.name}}<br>{{d.email}}<td>
+<a  class="nav-link"  href="#" onclick="window.open('{% url 'pchat'%}?demail={{d.email}}', 'newwindow', 'width=750, height=500'); return false;"><font size="" color="">		<h6><b>Chat</h6></a>
+
+
+</tr>
+				{% endfor %}
+</table>
+
+
+
+{% endblock %}

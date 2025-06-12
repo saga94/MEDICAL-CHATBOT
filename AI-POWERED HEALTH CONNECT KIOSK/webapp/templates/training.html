@@ -1,0 +1,36 @@
+
+{% extends 'a_base.html' %}
+{% block content %}
+
+
+<center>
+<h2>Classification Page</h2>
+<br>
+<font size="+1" color="#6600ff">{{msg}}
+</font>
+
+<table id="tab" width="80%"> <tr><th><center>
+<h3>Testing</h2>
+<tH><center>
+<h3>Training</h2>
+<TR><TD>
+<form action="/nbtrain/" method="post">
+{% csrf_token %}<input type="submit" class="form-control" value="Naive Bayes Classifier">	</form>
+
+<form action="/rftrain/" method="post">
+{% csrf_token %}<input type="submit" class="form-control" value="Random Forest Classifier">	</form>
+
+<form action="/nntrain/" method="post">
+{% csrf_token %}<input type="submit" class="form-control" value="Neural Networks Classifier">	</form>
+				
+<form action="/svmtrain/" method="post">
+{% csrf_token %}<input type="submit" class="form-control" value="SVM Classifier">	</form>
+<TD>
+<form action="/testing/" method="post">
+{% csrf_token %}<input type="submit" class="form-control" value="Testing Process">	</form>
+</table><br>
+
+	<a href="/viewacc"><h4>Performance Evaluation</a></li>
+ 							
+
+{% endblock %}

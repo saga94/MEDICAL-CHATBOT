@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+{% block content %} 
+		<h4>{{msg}}</h4>
+<table width="100%">
+<tr><td valign="top">
+
+<h2>User Login</h2><br>
+
+<form method="post" action="/userloginaction/">
+	{% csrf_token %} 
+                    <table>
+                    <tr><td><input   size="60"  class="form-control"  type="e_mail" name="mail" placeholder="Email, example@example.com" required="required" onblur="validate1()"></input></td></tr>
+                    <tr><td><input class="form-control"   size="60"    type="Password" name="pass_word" placeholder="Password" required="required" onblur="validate5()"></input></td></tr>
+                    <tr><td><input type="submit" class="form-control" value="Login">
+                   
+              <b><br><a href="/usersignup">Click here</a> to create account</b>  
+</table>
+</form>
+
+
+<td>
+{% if b %}
+<h2>Create an Account </h2>
+
+<br><form method="post" action="/usignupaction/">
+	{% csrf_token %} 
+<table>
+                    <tr><td><input class="form-control"  type="text" name="name" placeholder="Full Name" required="required"   size="50"  ></input></td></tr>
+                    <tr><td><input class="form-control"  type="e_mail" name="mail" placeholder="Email, example@example.com" required="required"   size="50"  onblur="validate1()"></input></td></tr>
+                    <tr><td><input class="form-control"  type="text" name="phone" placeholder="Phone" required="required"  size="50"   onblur="validate3()"></input></td></tr>
+                    <tr><td><input class="form-control"  type="text" name="city" placeholder="City" required="required"  size="50"   onblur="validate3()"></input></td></tr>
+                    <tr><td><input class="form-control"  type="text" name="state" placeholder="State" required="required"  size="50"   onblur="validate3()"></input></td></tr>
+<tr><td><input class="form-control"  type="text" name="age" placeholder="Age" required="required"  size="50"   onblur="validate3()"></input></td></tr>
+
+
+                    <tr><td>
+					<select name="gen"class="form-control" width="100%">
+						<option value="male" selected>Male
+						<option value="female">Female
+					</select>
+                    <tr><td><input class="form-control"  type="Password" name="pass_word" placeholder="Password" required="required"   size="50"   onblur="validate5()"></input><br></td></tr>
+
+
+                   
+					<tr><td><br><input type="submit" class="form-control" value="Register"  size="50"  >
+                
+</table>
+</form>
+{% endif %}
+
+</table>
+		
+{% endblock %}

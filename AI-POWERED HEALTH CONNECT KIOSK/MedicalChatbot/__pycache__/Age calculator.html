@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Age Calculator</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Age Calculator</h1>
+  </header>
+
+  <main>
+    <section id="age-calculator">
+      <h2>Enter Your Birthdate</h2>
+      <form id="ageForm">
+        <label for="birthdate">Birthdate:</label>
+        <input type="date" id="birthdate" required>
+        
+        <button type="submit">Calculate Age</button>
+      </form>
+
+      <div id="ageResult" style="display: none;">
+        <h3>Your Current Age is:</h3>
+        <p id="ageOutput"></p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Age Calculator. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+/* Global Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f7fc;
+  color: #333;
+}
+
+header {
+  background-color: #3498db;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+#age-calculator {
+  margin-top: 30px;
+}
+
+label {
+  font-size: 16px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+input[type="date"] {
+  padding: 10px;
+  width: 100%;
+  max-width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+#ageResult {
+  margin-top: 20px;
+}
+
+footer {
+  background-color: #3498db;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+document.getElementById('ageForm').addEventListener('submit', function(event) {
+    event.preventDefault(); // Prevent the form from submitting
+    
+    // Get the birthdate input value
+    const birthdate = document.getElementById('birthdate').value;
+  
+    if (birthdate) {
+      // Calculate the age based on the birthdate
+      const age = calculateAge(birthdate);
+      
+      // Display the age result
+      document.getElementById('ageOutput').textContent = `You are ${age.years} years, ${age.months} months, and ${age.days} days old.`;
+      document.getElementById('ageResult').style.display = 'block'; // Show the result
+    }
+  });
+  
+  // Function to calculate age in years, months, and days
+  function calculateAge(birthdate) {
+    const birthDate = new Date(birthdate); // Convert the input date to a Date object
+    const today = new Date();
+    
+    let years = today.getFullYear() - birthDate.getFullYear();
+    let months = today.getMonth() - birthDate.getMonth();
+    let days = today.getDate() - birthDate.getDate();
+  
+    // Adjust months and years if necessary
+    if (months < 0) {
+      years--;
+      months += 12;
+    }
+  
+    // Adjust days if necessary
+    if (days < 0) {
+      months--;
+      const lastMonth = new Date(today.getFullYear(), today.getMonth(), 0);
+      days += lastMonth.getDate();
+    }
+  
+    return { years, months, days };
+  }
+  
+

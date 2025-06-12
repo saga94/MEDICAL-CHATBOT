@@ -1,0 +1,21 @@
+{% extends 'a_base.html' %}
+{% block content %}
+
+
+
+<center>
+<font size="+1" color="red">{{msg}}</font>
+		  <h3> Upload Dataset</h3>
+<br>
+<form method="post" action="/upload1/">
+	{% csrf_token %} 
+	<table id="tab" width="60%">
+	<tr>
+		<td><input type="file" class="form-control" name="file" required accept=".csv"><tr><td>
+		<br><input type="submit" value="Upload" class="form-control"></td>
+	</tr>
+	</table>
+</form>
+
+
+{% endblock %}
